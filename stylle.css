@@ -1,0 +1,25 @@
+.tasks{
+    background-color: #000008;
+    margin: 100px;
+}
+.tasks h1{
+    color: orange;
+}
+.tasks button{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#task{
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    border-radius: 5px;
+}
+.tasks ul{
+    color: white;
+    list-style-type: none;
+}
